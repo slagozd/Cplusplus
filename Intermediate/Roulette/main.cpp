@@ -13,7 +13,7 @@ int main()
     Player *playersTable;
     int number;
 
-
+//starting game
     cout << "Let's play ROULETTE!" << endl << endl;
 
     cout << "How many players will play this time?" << endl << endl;
