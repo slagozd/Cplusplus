@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1574758128 source:c:\users\eslagoz\onedrive - ericsson ab\work\szkolenie_c++\intermediate\polymorphism\polymorphism.cpp
+	<iostream>
+	<string>
+	"Polymorphism.h"
+
+1574758375 c:\users\eslagoz\onedrive - ericsson ab\work\szkolenie_c++\intermediate\polymorphism\polymorphism.h
+	<iostream>
+	<string>
+
+1574758316 source:c:\users\eslagoz\onedrive - ericsson ab\work\szkolenie_c++\intermediate\polymorphism\main.cpp
+	<iostream>
+	<string>
+	"Polymorphism.h"
+

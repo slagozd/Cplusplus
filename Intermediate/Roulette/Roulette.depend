@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1575377535 source:c:\users\eslagoz\onedrive - ericsson ab\work\szkolenie_c++\intermediate\roulette\main.cpp
+	<iostream>
+	"Roulette.h"
+	<stdlib.h>
+	<time.h>
+
+1575375354 c:\users\eslagoz\onedrive - ericsson ab\work\szkolenie_c++\intermediate\roulette\roulette.h
+	<string>
+	<iostream>
+
+1575377863 source:c:\users\eslagoz\onedrive - ericsson ab\work\szkolenie_c++\intermediate\roulette\roulette.cpp
+	"Roulette.h"
+	<iostream>
+	<sstream>
+	<string>
+	<stdlib.h>
+

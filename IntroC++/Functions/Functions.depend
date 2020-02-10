@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1572963807 source:c:\users\eslagoz\onedrive - ericsson ab\work\szkolenie_c++\functions\functions.cpp
+	<iostream>
+	<string>
+
+1572963736 c:\users\eslagoz\onedrive - ericsson ab\work\szkolenie_c++\functions\functions.h
+	<iostream>
+	<string>
+
+1572963979 source:c:\users\eslagoz\onedrive - ericsson ab\work\szkolenie_c++\functions\main.cpp
+	<iostream>
+	<string>
+	"functions.h"
+
+1572962914 c:\users\eslagoz\onedrive - ericsson ab\work\szkolenie_c++\functions\functions.cpp
+	<iostream>
+	<string>
+

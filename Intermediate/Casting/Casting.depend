@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1574763862 source:c:\users\eslagoz\onedrive - ericsson ab\work\szkolenie_c++\intermediate\casting\casting.cpp
+	<iostream>
+	<string>
+	"Casting.h"
+
+1574763786 source:c:\users\eslagoz\onedrive - ericsson ab\work\szkolenie_c++\intermediate\casting\main.cpp
+	<iostream>
+	<string>
+	"Casting.h"
+
+1574765230 c:\users\eslagoz\onedrive - ericsson ab\work\szkolenie_c++\intermediate\casting\casting.h
+	<string>
+	<iostream>
+

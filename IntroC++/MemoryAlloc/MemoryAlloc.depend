@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1573563515 source:c:\users\eslagoz\onedrive - ericsson ab\work\szkolenie_c++\memoryalloc\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"memoryAlloc.h"
+
+1573562874 c:\users\eslagoz\onedrive - ericsson ab\work\szkolenie_c++\memoryalloc\memoryalloc.h
+
+1573562489 source:c:\users\eslagoz\onedrive - ericsson ab\work\szkolenie_c++\memoryalloc\memoryalloc.cpp
+	"memoryAlloc.h"
+	<iostream>
+

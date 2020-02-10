@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1574686616 source:c:\users\eslagoz\onedrive - ericsson ab\work\szkolenie_c++\intermediate\ex2\main.cpp
+	<iostream>
+	"Singleton.h"
+
+1574686713 c:\users\eslagoz\onedrive - ericsson ab\work\szkolenie_c++\intermediate\ex2\singleton.h
+	<string>
+
+1574686582 source:c:\users\eslagoz\onedrive - ericsson ab\work\szkolenie_c++\intermediate\ex2\singleton.cpp
+	<iostream>
+	"Singleton.h"
+

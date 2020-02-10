@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1573549927 source:c:\users\eslagoz\onedrive - ericsson ab\work\szkolenie_c++\structures\structures.cpp
+	<string>
+	<cstdio>
+	<iostream>
+	"Structures.h"
+
+1573548936 c:\users\eslagoz\onedrive - ericsson ab\work\szkolenie_c++\structures\structures.h
+	<iostream>
+	<string>
+

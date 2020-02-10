@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1574772549 source:c:\users\eslagoz\onedrive - ericsson ab\work\szkolenie_c++\intermediate\exceptions\main.cpp
+	<iostream>
+	<string>
+	"Exceptions.h"
+	<exception>
+
+1574772610 c:\users\eslagoz\onedrive - ericsson ab\work\szkolenie_c++\intermediate\exceptions\exceptions.h
+	<string>
+	<iostream>
+	<exception>
+
+1574771588 source:c:\users\eslagoz\onedrive - ericsson ab\work\szkolenie_c++\intermediate\exceptions\exceptions.cpp
+	<iostream>
+	<string>
+	"Exceptions.h"
+	<exception>
+

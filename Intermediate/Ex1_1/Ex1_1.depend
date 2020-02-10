@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1574686017 source:c:\users\eslagoz\onedrive - ericsson ab\work\szkolenie_c++\intermediate\ex1_1\main.cpp
+	<iostream>
+	"Person.h"
+	<vector>
+
+1574685772 c:\users\eslagoz\onedrive - ericsson ab\work\szkolenie_c++\intermediate\ex1_1\person.h
+
+1574685874 source:c:\users\eslagoz\onedrive - ericsson ab\work\szkolenie_c++\intermediate\ex1_1\person.cpp
+	<iostream>
+	"Person.h"
+

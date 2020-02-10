@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1573583039 source:c:\users\eslagoz\onedrive - ericsson ab\work\szkolenie_c++\list\main.cpp
+	<iostream>
+	"list.h"
+
+1573582798 c:\users\eslagoz\onedrive - ericsson ab\work\szkolenie_c++\list\list.h
+	<iostream>
+	<string>
+
+1573569707 source:c:\users\eslagoz\onedrive - ericsson ab\work\szkolenie_c++\list\list.cpp
+	<iostream>
+	"list.h"
+
