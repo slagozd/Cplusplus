@@ -60,7 +60,7 @@ int main()
 
     }
 
-    cout << "Roulette is spinning... " << endl << endl;
+    cout << "Roulette is spinning now... " << endl << endl;
 
     srand (time(NULL));		// initialize random seed
     number = rand() % 37;		// get number 0-36
